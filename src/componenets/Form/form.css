@@ -14,8 +14,14 @@
         font-size: 70px;
         line-height: 50px;
     }
+    .line3{
+        border: 1px solid yellow;
+        position: relative;
+        bottom: 11%;
+        width: 47%;
+    }
     p{
-        font-size: 15px;
+        font-size: 20px;
         width: 80%;
     }
     Input{

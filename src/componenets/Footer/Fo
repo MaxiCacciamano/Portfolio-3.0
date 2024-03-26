@@ -1,0 +1,33 @@
+// import React from "react";
+// import copy from "../../IMG/Copyright.png";
+// import escuadra from "../../IMG/urobos .png";
+// import "./footer.css";
+
+// export const Footer = () => {
+//   return (
+//     <div>
+//       <div>
+//          <h4>
+//          2023
+//          <img className="c" src={copy} />
+//          All right reserved
+//        </h4>
+//       </div>
+//       <div>
+//        <span>
+//          <h4>Created by ❤ Maxi</h4>
+//        </span>
+//       </div>
+//         <div className="footer-contacto">
+//           <img src={escuadra} />
+//         </div>
+//     </div>    
+//   )
+// }
+import React from 'react'
+
+export const footer = () => {
+  return (
+    <div>footer</div>
+  )
+}

@@ -1,0 +1,44 @@
+.menu{
+    display: flex;
+    justify-content:center;
+    z-index: +1; 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    .logo{
+        width: 20%;
+       p{
+        font: 900;
+       }
+       .nombre{
+        font-family: "Anton", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+       }
+    }
+    .redes {
+        text-align: end;
+        width: 50%;
+        svg{
+            padding: 10px;
+        }
+    }
+}
+
+@media screen and (max-width: 480px){
+    .me-auto{
+        left: 310px;
+    bottom: 30px;
+    position: relative;
+    }
+    .redes{
+        display:flex;
+    }
+    .nav{
+        a{
+            padding-right: 0px;
+            padding-left: 0px;
+        }
+    }
+}

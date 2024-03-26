@@ -1,0 +1,32 @@
+
+.skills{
+    display:grid;
+    grid-template-columns: 25% 25% 25% 25%;
+        svg{
+            width:40%;
+            margin:0 auto;
+        }
+        .skill{
+            width: 90%;
+            border-radius: 20px;
+            margin: 0px;
+            margin-top:20px;
+        }
+        h5{
+            color:#e2e3dd;
+            text-align:center;
+        }
+        .js{
+            width: 90%;
+            border-radius: 20px;
+            margin: 0px;
+            margin-top: 20px;
+            svg{
+                margin:0 auto;
+            }
+            h5{
+                color:#e2e3dd;
+                text-align:center;
+            }
+        }
+    }

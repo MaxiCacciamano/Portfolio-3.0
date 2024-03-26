@@ -1,0 +1,20 @@
+
+.proyectos-container{
+  #card_container1 {
+     margin-top:20px;
+    }
+    .title{
+      width: 23%;
+        font-size: 70px;
+        border-bottom: 2px solid yellow;
+    } 
+    
+  }
+@media screen and (max-width: 480px){
+  .proyectos-container{
+    h2{
+      font-size: 3rem;
+      text-align:left;
+    }
+  } 
+}

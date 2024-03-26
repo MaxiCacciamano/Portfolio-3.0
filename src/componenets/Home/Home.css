@@ -1,0 +1,109 @@
+body, html{
+    /* margin: 0;
+    padding: 0; */
+}
+
+.contect-width{
+    max-width: 1250px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    
+    .present{
+            border-bottom: 2px solid yellow;
+            margin-bottom: 20px;
+            /* width: 50%; */
+            display: flex;
+            flex-direction: row-reverse;
+            align-items: center;
+            justify-content: center; 
+            .resum{
+            /* width: 60%; */
+            position: relative;
+            left:120px;
+            /* background-color: #242424; */
+            padding: 10px;
+            /* border-bottom: 7px solid yellow; */
+        }
+        .description{
+            width: 60%;
+            text-align: left;
+            margin-top: 0px;
+            margin-bottom: 30px;
+            font-size: 20px;
+            /* color: #b9ccb4; */
+        }
+        
+        .title{
+            font-size: 5em;
+            font-weight: bold;
+            text-align: left;
+            line-height: 70px;
+            /* color: #b9ccb4; */
+        }
+        .title1{
+            font-size: 4em;
+            font-weight: bold;
+            text-align: left;
+            line-height: 70px;
+        }
+        .line1{
+            border: 2px solid yellow;
+            width: 71%;
+            position: relative;
+            left: 16%;
+            bottom: 46px;
+        }
+        .photo{
+            overflow: hidden; 
+            position: relative;
+            right: 50px;
+            margin-bottom: 20px;
+            /* bottom: 75px; */
+            img{
+                height: 100vh;
+            }
+        }
+        .contact{
+            /* display: flex; */
+            justify-content: flex-start;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            padding: 15px;
+            border-radius: 5px;
+            background-color: #b9ccb4;
+            color: black;
+            cursor: pointer;
+        }
+        button{
+            border-radius: 8px;
+            border: 1px solid transparent;
+            padding: 0.6em 1.2em;
+            font-size: 1em;
+            font-weight: 500;
+            font-family: inherit;
+            background-color: #1a1a1a;
+            cursor: pointer;
+            transition: border-color 0.25s;
+            /* padding-top: 40px; */
+            /* margin-bottom: 140px; */
+        }
+        /* .line{
+            background-color: yellow;
+            height: 0.3em;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            width: 100%;
+        } */
+    }
+}
+.end{
+    
+}
+.form{
+    /* background-color: ; */
+}
+.footer{
+    /* height: 100vh; */
+}
+

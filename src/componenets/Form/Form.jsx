@@ -27,7 +27,8 @@ export const Form = () => {
   return (
     <div className="form">
       <div className="info">
-        <h1>Contact</h1>
+        <h1>Contact.</h1>
+        <div className="line3"></div>
         <p>
           I would love to hear you project and how i could help. Please fill in
           the form, and i'll get back to you as soon as possible

@@ -11,7 +11,8 @@ function BasicExample() {
     // <Navbar className="menu" >
     <div className="menu">
          <div className="logo">
-              <p className="nombre"><span>CrackenDev</span></p>
+              <p className="nombre"><span>CrackenDev.</span></p>
+              <div className="line2"></div>
          </div>
 
     <div className="redes">

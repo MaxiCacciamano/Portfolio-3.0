@@ -29,6 +29,7 @@
             line-height: 1px;
           }
           p{
+            text-align: left;
               margin: 0;
               text-align: left;
           }

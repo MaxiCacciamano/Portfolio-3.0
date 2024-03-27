@@ -42,7 +42,7 @@
           
           .title {
             grid-column: 2 / span 2; 
-            text-align:right;
+            text-align:left;
           }
           
           .experience {
@@ -52,7 +52,7 @@
 
           .content {
             grid-column: 2; 
-            display: flex; 
+            /* display: flex;  */
             align-items: center; 
           }
         }

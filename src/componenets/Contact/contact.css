@@ -23,3 +23,20 @@
         font-size: 25px;
     }
 }
+
+@media screen and (max-width: 480px){
+    .contacto1{
+        flex-direction: column;
+        gap: 10px;
+        border-bottom: 2px solid yellow;
+        button{
+            height: 65px;
+            font-size: 20px;
+            background-color: #b9ccb4;
+            color: black;
+        }
+        .name{
+            text-align: center;
+        }
+    }
+}

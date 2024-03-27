@@ -157,7 +157,7 @@ body, html{
             margin-bottom: 0px;
             /* bottom: 75px; */
             img{
-                height: 0vh;
+                height: 75vh;
                 width: 100%;
             }
         }

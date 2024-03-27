@@ -13,6 +13,7 @@
     "@popperjs/core": "^2.11.8",
     "boostrap": "^2.0.0",
     "bootstrap": "^5.3.3",
+    "compass-mixins": "^0.12.12",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.22.3"

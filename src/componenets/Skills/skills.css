@@ -30,3 +30,15 @@
             }
         }
     }
+    
+    @media screen and (max-width: 480px){
+        .skills{
+            grid-template-columns: 50% 50%;
+            .skill{
+                width: 90%;
+                border-radius: 20px;
+                margin: 0px;
+                margin-top:20px;
+            }
+        }
+    }

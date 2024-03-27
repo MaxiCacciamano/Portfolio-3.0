@@ -8,6 +8,7 @@ import { Contact } from "../Contact/Contact";
 import { Form } from "../Form/Form";
 import { Footer } from "../Footer/Footer.jsx";
 import NavBar from '../NavBar/NavBar.jsx';
+import { ButtonCv } from "../Botones/ButtonCv";
 import { Link } from "react-router-dom";
 
 export const Home = () => {
@@ -33,11 +34,9 @@ export const Home = () => {
             I am a frontend developer passionate about crafting web
              applications that users adore."
             </p>
-            <Link to="/Resume">
-            <a className="contact">
-               ¿Do you want to know more about my experience and works?
-            </a>
-            </Link>
+            <div className="resume">
+            <ButtonCv />
+          </div>
             <div className="line"></div>
           </div>
         </div>

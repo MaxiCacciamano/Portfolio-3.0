@@ -3,7 +3,6 @@ import "./experiencia.scss";
 
 export const Cv = () => {
   return (
-<<<<<<< HEAD
     <div /*data-aos="fade-left"*/>
       <h1 id="experiencia">Experiencia</h1>
         <ul className="timeline">
@@ -115,11 +114,6 @@ export const Cv = () => {
             </div>
           </li>
         </ul>
-=======
-    <div className='resume'>
-        <h1>Resume in proccess</h1>
-        <p>..</p>
->>>>>>> 9cdf050c2e1c2e4f7207da6044e93f8bd867008f
     </div>
   );
 };

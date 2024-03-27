@@ -107,3 +107,66 @@ body, html{
     /* height: 100vh; */
 }
 
+
+@media screen and (max-width: 480px){
+    .contect-width{
+        .present{
+            border-bottom: 2px solid yellow;
+            margin-bottom: 20px;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center; 
+            .resum{
+            width: 90%;
+            position: relative;
+            /* left:120px; */
+            /* background-color: #242424; */
+            padding: 10px;
+            /* border-bottom: 7px solid yellow; */
+        }
+        .description{
+            width: 90%;
+            text-align: center;
+            margin-top: 0px;
+            margin-bottom: 30px;
+            font-size: 20px;
+            /* color: #b9ccb4; */
+        }
+        
+        .title{
+            font-size: 3em;
+            font-weight: bold;
+            text-align: center;
+            line-height: 10px;
+            /* color: #b9ccb4; */
+        }
+        .title1{
+            font-size: 2em;
+            text-align: center;
+            line-height: 70px;
+        }
+        .line1{
+            width: 60%;
+            left: 25%;
+            bottom: 38px;
+        }
+        .photo{
+            overflow: hidden; 
+            position: relative;
+            right: 0px;
+            margin-bottom: 0px;
+            /* bottom: 75px; */
+            img{
+                height: 75vh;
+            }
+        }
+        .contact{
+            margin-top: 10px;
+            margin-bottom: 10px;
+            padding: 10px;
+            font-size: 10px;
+        }
+        }
+}
+}
+

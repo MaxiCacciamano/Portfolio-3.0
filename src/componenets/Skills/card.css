@@ -64,3 +64,15 @@
           margin-top: -1px;
           box-shadow: 0 4px 5px rgba(0,0,0,0.2);
       }
+
+      @media screen and (max-width: 480px){
+        .skills{
+          grid-template-columns: 50% 50%;
+          margin: 10px;
+          .title {
+            h1{
+              font-size: 25px;
+            }
+          }
+        }
+      }

@@ -14,8 +14,13 @@
     .proyectos-container{
       #card_container1 {
         margin-top:0px;
-        margin: 30px;
+        margin: 20px;
        }
+       .title{
+        width: 65%;
+        font-size: 70px;
+        border-bottom: 2px solid yellow;
+      } 
       h2{
         font-size: 3rem;
         text-align:left;

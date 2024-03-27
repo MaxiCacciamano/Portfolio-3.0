@@ -96,5 +96,12 @@
     }
   }
 }
+@media screen and (max-width: 480px){
+  .band {
+    margin-bottom: 5px;
+    grid-template-columns: 50% 50%;
+    grid-gap: 10px;
+}
+}
 
 

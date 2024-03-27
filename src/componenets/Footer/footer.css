@@ -42,22 +42,20 @@
             /* left: 10px; */
         }
     }
-/* } */
-/* @media screen and (max-width: 480px){
-    .footer{
-        display: grid;
-        justify-content:space-around;
-        .c{
-            width: 8%;
-        }
-        img{
-            position: relative;
-            width: 18%;
-        }
-        h4 {
-            font-size: 1.4rem;
-            margin: 0px 10px -30px 10px;
-            text-align: center;
-        }
-    }*/
 } 
+@media screen and (max-width: 480px){
+    .footer2{
+        /* display: grid; */
+        /* justify-content:space-around; */
+        flex-direction: column;
+        .copyright{
+            width: 100%;
+            margin: 0 auto;
+        }
+        h4{
+            font-size: 30px;
+            text-align: center;
+            line-height: 0px;
+        }
+    }
+}

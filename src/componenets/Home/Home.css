@@ -136,18 +136,18 @@ body, html{
         .title{
             font-size: 3em;
             font-weight: bold;
-            text-align: center;
-            line-height: 10px;
+            text-align: left;
+            line-height: 0px;
             /* color: #b9ccb4; */
         }
         .title1{
             font-size: 2em;
-            text-align: center;
+            text-align: left;
             line-height: 70px;
         }
         .line1{
             width: 60%;
-            left: 25%;
+            left: 13%;
             bottom: 38px;
         }
         .photo{

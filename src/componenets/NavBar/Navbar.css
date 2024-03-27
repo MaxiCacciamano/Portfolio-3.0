@@ -55,6 +55,7 @@
             width: 100%;
             text-align:right;
             padding-right: 5px;
+            margin: 0 auto;
             svg{
                 padding: 5px;
                 padding-top: 50px;

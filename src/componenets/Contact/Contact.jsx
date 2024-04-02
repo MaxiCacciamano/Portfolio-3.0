@@ -7,7 +7,11 @@ export const Contact = () => {
         <div className='name'>
         <h1 >Book a meeting Maximiliano Cacciamano</h1>
         </div>
-        <button>Contact</button>
+        <a href="#form">
+        <button>
+          Contact
+        </button>
+        </a>
     </div>
   )
 }

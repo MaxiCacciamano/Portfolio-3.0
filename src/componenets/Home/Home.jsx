@@ -50,7 +50,7 @@ export const Home = () => {
       <div className="contacto">
         <Contact />
       </div>
-      <div className="contect-width">
+      <div className="contect-width" id="form">
         <div className="form">
           <Form />
         </div>

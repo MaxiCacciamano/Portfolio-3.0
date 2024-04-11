@@ -29,9 +29,15 @@
         flex-direction: column;
         gap: 10px;
         border-bottom: 2px solid yellow;
+        a{
+            width: 100%;
+            text-align: center;
+        }
         button{
+            /*
             height: 65px;
             font-size: 20px;
+            */
             background-color: #b9ccb4;
             color: black;
         }

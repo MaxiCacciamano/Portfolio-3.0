@@ -12,8 +12,11 @@
 
     border-top: 2px solid yellow;
     background-color: black; 
+
+    text-align: center;
+    align-items: center;
     .copyright{
-        width: 20%;
+        width: 50%;
     }
     h4{
         font-size: 25px;
@@ -24,7 +27,7 @@
     .c{
         position: relative;
         margin: 2px;
-        width: 9%;
+        width: 6%;
         top: 5px;
     }
     strong{
@@ -33,12 +36,16 @@
     img{
         width: 15%;
     }
+    .merkers{
+        width: 50%;
+    }
     .footer-contacto{
     }
     .footer-contacto {
+        width: 50%;
         img{
-            width: 5%;
-            position: absolute;
+            width: 15%;
+            position: relative;
             /* left: 10px; */
         }
     }
@@ -55,7 +62,7 @@
         h4{
             font-size: 30px;
             text-align: center;
-            line-height: 0px;
+            line-height: normal;
         }
     }
 }

@@ -13,7 +13,7 @@ export const Footer = () => {
           All right reserved
         </h4>
        </div>
-       <div>
+       <div className='merkers'>
         <span>
           <h4>Created by ❤ Maxi</h4>
         </span>

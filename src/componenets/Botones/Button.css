@@ -24,7 +24,7 @@ button {
    .front {
     display: block;
     position: relative;
-    padding: 12px 27px;
+    padding: 20px 27px;
     border-radius: 12px;
     font-size: 1em;
     background: #e2e3dd;
@@ -37,10 +37,14 @@ button {
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
+    background-color: #b9ccb4;
     p{
         font-weight: 700;
         text-decoration: none;
-
+        color: black;
+        font-size: 20px;
+        height: 65px;
+        text-align: center;
     }
    }
    
@@ -235,7 +239,7 @@ button {
             width:30%;
         }
         .Resume{
-            margin-top:3px;
+            margin-top:0px;
             text-decoration: none;
         }
         a{

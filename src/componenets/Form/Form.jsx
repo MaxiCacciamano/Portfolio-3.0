@@ -61,7 +61,10 @@ export const Form = () => {
               onChange={e=>handleChange(e)}
               required
             />
-          <button type="submit">Submit</button>
+          <div className="submit">
+
+          <button>Submit</button>
+          </div>  
         </form>
       </div>
     </div>

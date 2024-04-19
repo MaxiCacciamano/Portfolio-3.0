@@ -19,7 +19,7 @@ export const ButtonCv = () => {
                 </a>
             </button>
             <ReactTooltip id="botonsobre">
-                para saber de mi historial academico, descarga mi cv
+            To know about my academic background, download my CV.
             </ReactTooltip>
         </div>
     );

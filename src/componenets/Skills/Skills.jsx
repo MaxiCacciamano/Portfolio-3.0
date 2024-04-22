@@ -26,30 +26,30 @@ import J from './svg/j.jsx';
 export const Skills = () => {
   return (
     <div className="skills">
-        <Card className="hover" title="JavaScript" experience="2 años"  logo={<JSLogo/>}/>
-        <Card className="hover" title="Html" experience="2 años"  logo={<HTML/>}/>
-        <Card className="hover" title="Css" experience="2 años"  logo={<CSS3/>}/>
-        <Card className="hover" title="Boostrap" experience="2 años"  logo={<Boostrap/>}/>
-        <Card className="hover" title="Sequelize" experience="2 años"  logo={<Sequelize/>}/>
-        <Card className="hover" title="React" experience="2 años"  logo={<React/>}/>
-        <Card className="hover" title="Redux" experience="2 años"  logo={<Redux/>}/>
-        <Card className="hover" title="NodeJs" experience="2 años"  logo={<Nodejs/>}/>
-        <Card className="hover" title="ExpresJs" experience="2 años"  logo={<Expresjs/>}/>
-        <Card className="hover" title="MongoDb" experience="2 años"  logo={<MongoDb/>}/>
-        <Card className="hover" title="TypeScript" experience="2 años"  logo={<Typescript/>}/>
-        <Card className="hover" title="Sass" experience="2 años"  logo={<Sass/>}/>
-        <Card className="hover" title="PostgreSQL" experience="2 años"  logo={<PostgreSQL/>}/>
-        <Card className="hover" title="Git" experience="2 años"  logo={<Git/>}/>
-        <Card className="hover" title="GitHub" experience="2 años"  logo={<GitHub/>}/>
-        <Card className="hover" title="WordPress" experience="2 años"  logo={<Wordpress/>}/>
-        <Card className="hover" title="Scrum" experience="2 años"  logo={<Scrum/>}/>
-        <Card className="hover" title="SQLserver" experience="2 años"  logo={<Sqlserver/>}/>
-        <Card className="hover" title="C#" experience="2 años"  logo={<C/>}/>
-        <Card className="hover" title=".Net" experience="2 años"  logo={<Net/>}/>
-        <Card className="hover" title="NextJs" experience="2 años"  logo={<Nextjs/>}/>
-        <Card className="hover" title="Tailwind" experience="2 años"  logo={<J/>}/>
-        <Card className="hover" title="JavaScript" experience="2 años"  logo={<JSLogo/>}/>
-        <Card className="hover" title="JavaScript" experience="2 años"  logo={<JSLogo/>}/>
+        <Card className="hover" title="JavaScript" experience="2 years"  logo={<JSLogo/>}/>
+        <Card className="hover" title="Html" experience="2 years"  logo={<HTML/>}/>
+        <Card className="hover" title="Css" experience="2 years"  logo={<CSS3/>}/>
+        <Card className="hover" title="Boostrap" experience="2 years"  logo={<Boostrap/>}/>
+        <Card className="hover" title="Sequelize" experience="2 years"  logo={<Sequelize/>}/>
+        <Card className="hover" title="React" experience="2 years"  logo={<React/>}/>
+        <Card className="hover" title="Redux" experience="2 years"  logo={<Redux/>}/>
+        <Card className="hover" title="NodeJs" experience="2 years"  logo={<Nodejs/>}/>
+        <Card className="hover" title="ExpresJs" experience="2 years"  logo={<Expresjs/>}/>
+        <Card className="hover" title="MongoDb" experience="2 years"  logo={<MongoDb/>}/>
+        <Card className="hover" title="TypeScript" experience="2 years"  logo={<Typescript/>}/>
+        <Card className="hover" title="Sass" experience="2 years"  logo={<Sass/>}/>
+        <Card className="hover" title="PostgreSQL" experience="2 years"  logo={<PostgreSQL/>}/>
+        <Card className="hover" title="Git" experience="2 years"  logo={<Git/>}/>
+        <Card className="hover" title="GitHub" experience="2 years"  logo={<GitHub/>}/>
+        <Card className="hover" title="WordPress" experience="2 years"  logo={<Wordpress/>}/>
+        <Card className="hover" title="Scrum" experience="2 years"  logo={<Scrum/>}/>
+        <Card className="hover" title="SQLserver" experience="2 years"  logo={<Sqlserver/>}/>
+        <Card className="hover" title="C#" experience="2 years"  logo={<C/>}/>
+        <Card className="hover" title=".Net" experience="2 years"  logo={<Net/>}/>
+        <Card className="hover" title="NextJs" experience="2 years"  logo={<Nextjs/>}/>
+        <Card className="hover" title="Tailwind" experience="2 years"  logo={<J/>}/>
+        <Card className="hover" title="JavaScript" experience="2 years"  logo={<JSLogo/>}/>
+        <Card className="hover" title="JavaScript" experience="2 years"  logo={<JSLogo/>}/>
     </div>
   )
 }

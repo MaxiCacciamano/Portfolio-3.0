@@ -24,6 +24,10 @@
             cursor: pointer;
         }
 
+        .item{
+          text-align: center;
+        }
+
         h1{
             color:#e2e3dd;
             line-height: 1px;

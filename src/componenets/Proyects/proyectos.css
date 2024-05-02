@@ -84,6 +84,7 @@
     padding-bottom: 60%;
     background-size: cover;
     background-position: center center;
+    background-image: url('../../IMG/Challenge.png');
   }
 }
 
@@ -96,6 +97,13 @@
     }
   }
 }
+
+
+
+  
+
+  
+  
 @media screen and (max-width: 480px){
   .band {
     margin-bottom: 5px;

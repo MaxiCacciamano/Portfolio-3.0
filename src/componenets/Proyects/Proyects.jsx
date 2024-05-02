@@ -12,7 +12,7 @@ import Redux from "../Skills/svg/Redux";
 import JSLogo from "../Skills/svg/js";
 import HTML from "../Skills/svg/Html";
 import Typescript from "../Skills/svg/Typescript";
-
+ 
 export const Proyectos = () => {
   return (
     <div>
@@ -226,10 +226,9 @@ export const Proyectos = () => {
         <div className="item-4">
           <a href="https://e-comerce-max-pay.vercel.app/" className="card">
             <div
-              className="thumb"
+              className="thumb fost"
               style={{
-                backgroundImage:
-                  "url(https://maxicacciamano.vercel.app/static/media/pp.df7db41d3c51fc61d25a.png)",
+                backgroundImage:"url('../../IMG/ecomm.png')",
               }}
             ></div>
             <article>
@@ -609,6 +608,52 @@ export const Proyectos = () => {
             ></div>
             <article>
               <h1>NFT Card - Challenge</h1>
+              <div className="share">
+              <a>
+                  <JSLogo/>
+                </a>
+                <a>
+                  <HTML/>
+                </a>
+                <a>
+                  <React/>
+                </a>
+                <a>
+                  <Nodejs/>
+                </a>
+                <a>
+                  <Git/>
+                </a>
+                <a>
+                  <Github/>
+                </a>
+                <a>
+                  <CSS3/>
+                </a>
+                <a>
+                  <Redux/>
+                </a>
+                <a>
+                  <J/>
+                </a>
+              </div>
+            </article>
+          </a>
+        </div>
+        <div className="item-1">
+          <a
+            href="https://nft-card-orpin.vercel.app"
+            className="card"
+          >
+            <div
+              className="thumb fast"
+              style={{
+                backgroundSize:"cover"
+                
+              }}
+            ></div>
+            <article>
+              <h1>Landing page challenge - Challenge</h1>
               <div className="share">
               <a>
                   <JSLogo/>

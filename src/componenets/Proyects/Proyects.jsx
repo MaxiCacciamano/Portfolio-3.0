@@ -92,7 +92,7 @@ export const Proyectos = () => {
               // style="background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/210284/flex-5.jpg);"
               style={{
                 backgroundImage:
-                  "url(https://maxicacciamano.vercel.app/static/media/maxFlix.png)",
+                  "url(https://github.com/MaxiCacciamano/Portfolio-3.0/blob/main/src/IMG/maxFlix.png?raw=true)",
               }}
             ></div>
             <article>

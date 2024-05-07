@@ -679,9 +679,6 @@ export const Proyectos = () => {
                 <a>
                   <Redux/>
                 </a>
-                <a>
-                  <J/>
-                </a>
               </div>
             </article>
           </a>

@@ -642,7 +642,7 @@ export const Proyectos = () => {
         </div>
         <div className="item-1">
           <a
-            href="https://nft-card-orpin.vercel.app"
+            href="https://challenge-landing-page-five.vercel.app"
             className="card"
           >
             <div
